@@ -1,0 +1,15 @@
+1900829367812,ANTOHI,MIHAI,mun. Cluj-Napoca, str. Unu nr. 1	
+1999829367855,BERCEA,CELIA,mun. Cluj-Napoca, str. Doi nr. 2	
+1958829367589,BUCUR,FILIP,mun. Cluj-Napoca, str. Trei nr. 3	
+2900829368147,BIDI,ALEXANDRA,mun. Cluj-Napoca, str. Patru nr. 4	
+1948829367811,BOLDI,DARIUS,mun. Cluj-Napoca, str. Cinci nr. 5	
+1800825367843,FEHER,DAN,mun. Cluj-Napoca, str. Sase nr. 6	
+2970829367833,GHICA,ADA,mun. Cluj-Napoca, str.Sapte nr. 7	
+2900829367899,GODEA,ANDREEA,mun. Cluj-Napoca, str. Opt nr. 8	
+2940829367881,HAIDE,LAURA,mun. Cluj-Napoca, str. Noua nr. 9	
+1920829367836,HOREA,TAMAS,mun. Cluj-Napoca, str. Zece nr. 10	
+1960829367894,KRIS,TOMI,mun. Cluj-Napoca, str. Azi nr. 11	
+1900829367812,LORES,ALEXANDER,mun. Cluj-Napoca, str. Ieri nr. 12	
+1890874967874,MARCUS,LORAND,mun. Cluj-Napoca, str. Maine nr. 13 	
+1860829847846,MEDVED,OVIDIU,mun. Cluj-Napoca, str. Azimut nr. 14	
+1980829367847,ROOR,DENIS,mun. Cluj-Napoca, str.Python nr. 15	
